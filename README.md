@@ -28,6 +28,6 @@ An AI tool that migrates repositories directly from Azure DevOps to GitHub, chec
 
 ## Find me
 
-- 🌐 Website: https://YOUR-USERNAME.github.io
+- 🌐 Website: [https://Patsytalk.github.io](https://github.com/patsytalk)
 - 📧 kurtannetonip@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
+- 💼 [[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)](https://www.linkedin.com/in/kurt-annetoni-de-guzman-534302315)
