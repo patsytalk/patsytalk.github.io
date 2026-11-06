@@ -13,7 +13,7 @@
 
 **AI-Powered Azure DevOps to GitHub Migration Assistant**
 An AI tool that migrates repositories directly from Azure DevOps to GitHub, checks repository status, and includes a knowledge base so users can migrate on their own.
-👉 [View the repository](https://github.com/YOUR-USERNAME/YOUR-REPO)
+👉 [View the repository](https://github.com/patsytalk)
 
 ## Tech stack
 
